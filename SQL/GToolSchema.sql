@@ -1,3 +1,2 @@
-CREATE USER gtool identified by gtool
-
-grant dba to gtool
+CREATE USER protool identified by protool;
+grant dba to protool;
